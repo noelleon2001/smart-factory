@@ -37,4 +37,19 @@ node-red-contrib-opcua
 ```
 
 ## Images
-
+<br>
+### Factory overview
+<img src="https://github.com/noelleon2001/smart-packaging-factory/blob/main/factory1.png?raw=true" width="400">
+<br>
+### Factory in operation
+<img src="https://github.com/noelleon2001/smart-packaging-factory/blob/main/operation.png?raw=true" width="400">
+<br>
+### Discord Bot
+<img src="https://github.com/noelleon2001/smart-packaging-factory/blob/main/bot.png?raw=true" width="400">
+<br>
+### Driver
+<img src="https://github.com/noelleon2001/smart-packaging-factory/blob/main/driver.png?raw=true" width="400">
+<br>
+### Node-RED flow
+<img src="https://github.com/noelleon2001/smart-packaging-factory/blob/main/flow.png?raw=true" width="400">
+<br>
