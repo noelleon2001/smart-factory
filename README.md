@@ -3,7 +3,7 @@
 This just a demo of the smart factory I designed for EAMMSS EAnnovate 2022 competition.
 
 ## Description
-This factory has been designed according to the theme of the competition, which is Mooncake ordering and packing.
+This factory has been designed according to the theme of the competition, which is Mooncake ordering and packing. \
 [Video link for the demo](https://drive.google.com/file/d/1Z-zKT5uXirQUHvJXS7dJ-FoTtRr97VUB/view?usp=sharing)
 Features added:
 
